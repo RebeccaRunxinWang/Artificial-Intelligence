@@ -18,3 +18,5 @@ Inference.java
    reject(int n): The rejection-sampling method that returns an estimate of P(X|e). The parameter is the number of samples created. 
 
    like(int n): The likelihood-weighting method that returns an estimate of P(X|e). The parameter is the number of samples created. 
+   
+A decision tree classification algorithm. Run on a data set which contains congressional voting records for a subset of the votes taken in the U.S. Congress in 2018.
